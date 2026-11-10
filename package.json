@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@better-auth/expo": "1.7.18",
+    "better-auth": "1.7.18",
+    "esbuild": "0.28.2"
+  }
+}
